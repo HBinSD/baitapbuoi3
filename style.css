@@ -1,0 +1,44 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    width: auto;
+    height: 50px;
+    background-color: rgb(71, 71, 231);
+    align-content: center;
+}
+
+.header h1 {
+    color: white;
+    line-height: 50px;
+    text-align: center;
+}
+
+.main {
+    height: fit-content;
+    width: auto;
+    display: block;
+    padding: 20px;
+    margin: 20px;
+}
+
+.main ul {
+    font-weight: bold;
+    font-size: 22px;
+    margin: 15px;
+}
+
+.main ul li {
+    color: white;
+    padding: 20px;
+    margin: 5px;
+}
+
+.main ul li a {
+    color: white;
+    text-decoration: none;
+    background-color: palevioletred;
+    padding: 20px;
+}
